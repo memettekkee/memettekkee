@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Im **Muhammad** 
+I'm **Muhammad** but you can call me Met
 
 - 🌱 I’m currently learning some Front-end and Android things
 - 📫 Let's connect with me in my [Linkedin] (https://www.linkedin.com/in/muhammad-met-902397227/)
