@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Im **Muhammad** 
+
+- 🌱 I’m currently learning some Front-end and Android things
+- 📫 Let's connect with me in my [Linkedin] (https://www.linkedin.com/in/muhammad-met-902397227/)
+
 <!--
 **memettekkee/memettekkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
