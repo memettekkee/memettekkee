@@ -5,7 +5,7 @@ I'm **Muhammad** but you can call me Met
 ![gojo-satoru](https://github.com/memettekkee/memettekkee/assets/135829797/c9941a3d-6c68-499c-a8fd-667d8d658c48)
 
 
-- 🌱 I’m currently learning some Front-end and Android things
+- 🌱 I’m currently learning some Web and Android dev things
 - 📫 Let's connect with me in my [Linkedin](https://www.linkedin.com/in/muhammad-met-902397227/)
 
 ### Github Statistic
